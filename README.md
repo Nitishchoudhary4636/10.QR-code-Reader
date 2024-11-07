@@ -1,7 +1,3 @@
-Here's a sample README for your QR Code Generator project:
-
----
-
 # QR Code Generator
 
 A simple web application to generate QR codes from any text or URL input. Built with HTML, CSS, and JavaScript, this tool allows users to create and download QR codes in different sizes.
